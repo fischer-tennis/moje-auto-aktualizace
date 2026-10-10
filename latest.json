@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "build": 11,
-  "version": "6.0.11",
-  "url": "https://raw.githubusercontent.com/fischer-tennis/moje-auto-aktualizace/main/bundles/moje-auto-web-6.0.11.zip",
-  "sha256": "9d2d711112e213964f0c7b16cca7fc5e92638f403d2b69e09a153d93ae6759d9"
+  "build": 12,
+  "version": "6.0.12",
+  "url": "https://raw.githubusercontent.com/fischer-tennis/moje-auto-aktualizace/main/bundles/moje-auto-web-6.0.12.zip",
+  "sha256": "a9ffdf6876cb97d9e34f795848a017ec440e3bb902873949e13d0c7b7e096ea7"
 }
